@@ -1,6 +1,7 @@
 package mychgorm
 
 import (
+	"context"
 	"fmt"
 	"github.com/ClickHouse/clickhouse-go/v2"
 	"reflect"
